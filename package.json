@@ -1,0 +1,19 @@
+{
+  "name": "nodetesting",
+  "version": "1.0.0",
+  "description": "Play Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jatkisson/NodeTesting.git"
+  },
+  "author": "James Atkisson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jatkisson/NodeTesting/issues"
+  },
+  "homepage": "https://github.com/Jatkisson/NodeTesting#readme"
+}
